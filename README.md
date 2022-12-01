@@ -2,7 +2,7 @@
 
 A study of how environmental and weather factors can help predict area burned in a forest fire. 
 
-Created as the final project of [STAT 301: Statistical Modelling for Data Science](https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-course&dept=STAT&course=301). To view this project's proposal, navigate to `stat_301_project/Proposal.ipynb`. To view the final report, go to `stat_301_project/Final_Report.ipynb`. 
+Created as the final project of [STAT 301: Statistical Modelling for Data Science](https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-course&dept=STAT&course=301). To view this project's proposal, navigate to `src/Proposal.ipynb`. To view the final report, go to `src/Final_Report.ipynb`. 
 
 
 
@@ -14,7 +14,7 @@ Clone this repository.
 
 If needed, install Jupyter and R on your local machine, and set up the Jupyter kernel to run R code. 
 
-Open up the final report (`stat_301_project/Final_Report.ipynb`), install the necessary packages, then run all the cells. Enjoy!
+Open up the final report (`src/Final_Report.ipynb`), install the necessary packages, then run all the cells. Enjoy!
 
 
 ## Team 
