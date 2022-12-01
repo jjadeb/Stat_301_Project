@@ -18,4 +18,4 @@ Open up the final report (`stat_301_project/Final_Report.ipynb`), install the ne
 
 
 ## Team 
-This project was created by [Teanna](), [Brian](), [Adam](), and [Jade](https://www.linkedin.com/in/jadebouchard62/).
+This project was created by [Teanna](https://github.com/teannaurq), [Brian](https://github.com/Jun-QianKong), [Adam](https://github.com/adagfs), and [Jade](https://github.com/jjadeb).
